@@ -49,3 +49,17 @@ the link : http://10.51.217.213:5000/
 - static has the design files, fonts, css and jquery files
 - templates has the html files
 
+  ## References
+
+1. [Rizzo, A., & Shilling, R. (2017). Clinical Virtual Reality tools to advance the prevention, assessment, and treatment of PTSD. European Journal of Psychotraumatology, 8(1), 1414560.](link_to_reference_1)
+2. [Miner, A. S., Milstein, A., Schueller, S., Hegde, R., Mangurian, C., & Linos, E. (2016). Smartphone-based conversational agents and responses to questions about mental health, interpersonal violence, and physical health. JAMA internal medicine, 176(5), 619-625.](link_to_reference_2)
+3. [Vaidyam, A. N., Wisniewski, H., Halamka, J. D., Kashavan, M. S., & Torous, J. B. (2019). Chatbots and Conversational Agents in Mental Health: A Review of the Psychiatric Landscape. The Canadian Journal of Psychiatry, 64(7), 456–464.](link_to_reference_3)
+4. [Radziwill, N. M., & Benton, M. C. (2017). Evaluating the quality of chatbots and intelligent conversational agents. arXiv preprint arXiv:1704.04579.](link_to_reference_4)
+5. [Fitzpatrick, K. K., Darcy, A., & Vierhile, M. (2017). Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial. JMIR mental health, 4(2), e19.](link_to_reference_5)
+6. [Lucas, G. M., Gratch, J., King, A., & Morency, L. P. (2014). It’s only a computer: Virtual humans increase their willingness to disclose. Computers in Human Behavior, 37, 94-100.](link_to_reference_6)
+7. [Laranjo, L., Dunn, A. G., Tong, H. L., Kocaballi, A. B., Chen, J., Bashir, R., ... & Coiera, E. (2018). Conversational agents in healthcare: a systematic review. Journal of the American Medical Informatics Association, 25(9), 1248-1258.](link_to_reference_7)
+8. [World Health Organization. (2017). Depression and other common mental disorders: global health estimates. World Health Organization.](link_to_reference_8)
+
+
+
+
